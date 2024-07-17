@@ -1,0 +1,19 @@
+* {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 32px;
+}
+
+.description{
+    background-color: white;
+    text-align: center;
+}
+
+h2.description{
+    color:goldenrod;
+}
